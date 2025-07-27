@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title : "CV", url: "Sam_Dong_Resume_2025.pdf"}
+  - {title : "Resume", url: "Sam_Dong_Resume_2025.pdf"}
   # - {title: "test", url: "https://github.com/niklasbuschmann/contrast"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
