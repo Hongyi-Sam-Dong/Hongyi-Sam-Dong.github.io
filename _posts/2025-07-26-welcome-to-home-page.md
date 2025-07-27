@@ -3,7 +3,7 @@ title: "WELCOME TO MY HOMEPAGE"
 layout: post
 ---
 
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](https://github.com/Hongyi-Sam-Dong/Hongyi-Sam-Dong.github.io/blob/master/_posts/profile_picture.jpg)
 
 Biography:
 
