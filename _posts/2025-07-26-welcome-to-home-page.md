@@ -2,7 +2,7 @@
 title: "WELCOME TO MY HOMEPAGE"
 ---
 
-![Profile Picture](./profile_picture.jpg)
+![profile_picture](./profile_picture.jpg)
 
 Biography:
 
