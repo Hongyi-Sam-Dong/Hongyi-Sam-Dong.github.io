@@ -2,6 +2,8 @@
 title: "WELCOME TO MY HOMEPAGE"
 ---
 
+Current path: `{{ page.path }}`
+
 ![profile_picture](./_posts_/profile_picture.jpg)
 
 Biography:
