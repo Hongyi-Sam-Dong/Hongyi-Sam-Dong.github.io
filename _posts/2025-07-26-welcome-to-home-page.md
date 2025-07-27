@@ -2,10 +2,6 @@
 title: "WELCOME TO MY HOMEPAGE"
 ---
 
-Current path: `{{ page.path }}`
-
-![profile_picture](../assets/profile_picture.jpg)
-
 Biography:
 
 Hongyi Sam Dong is a Master of Science student in Robotic Systems Development at Carnegie Mellon University and a recent graduate in Computer Science from the University of Illinois Urbana-Champaign, where he was recognized on the Dean’s List and engaged deeply in both research and teaching. With a strong foundation in computer science and robotics, Dong is passionate about advancing intelligent systems through both academic research and industry practice.
@@ -17,3 +13,7 @@ In industry, Dong interned at Siemens Smart Infrastructure, where he played a ke
 A strong advocate for teaching and educational tools, Dong served as a coding assistant for UIUC’s CS 124 and CS 357 courses, supporting over a thousand students and driving improvements in course management platforms. He is especially interested in the intersection of robotics, machine learning, and educational technology, with recent projects focused on self-supervised learning, neural network-based image reconstruction, and scalable web systems for classroom management.
 
 Dong’s technical expertise includes Python, C++, ROS, PyTorch, SolidWorks, and advanced machine learning techniques. He continues to explore the frontiers of autonomous systems and intelligent infrastructure with a commitment to innovation, equity, and practical impact.
+
+
+
+![profile_picture](../assets/profile_picture.jpg)
