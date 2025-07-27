@@ -3,6 +3,8 @@ title: "WELCOME TO MY HOMEPAGE"
 layout: post
 ---
 
+![Profile Picture](https://github.com/Hongyi-Sam-Dong/Hongyi-Sam-Dong.github.io/blob/master/profile_picture.jpg)
+
 Biography:
 
 Hongyi Sam Dong is a Master of Science student in Robotic Systems Development at Carnegie Mellon University and a recent graduate in Computer Science from the University of Illinois Urbana-Champaign, where he was recognized on the Dean’s List and engaged deeply in both research and teaching. With a strong foundation in computer science and robotics, Dong is passionate about advancing intelligent systems through both academic research and industry practice.
